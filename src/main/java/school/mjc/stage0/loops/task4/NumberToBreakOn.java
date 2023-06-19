@@ -9,7 +9,7 @@ public class NumberToBreakOn {
             }
         }
         else {
-            for( int d = 2; d<=toBreakWith; d++){
+            for( int d = 1; d<=toBreakWith; d++){
                 System.out.println(d);
             }
         }
